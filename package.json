@@ -1,0 +1,29 @@
+{
+  "name": "reser-reef",
+  "version": "1.0.0",
+  "description": "📌 Proyecto RESER-REEF",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javinovoae/RESER-REEF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/javinovoae/RESER-REEF/issues"
+  },
+  "homepage": "https://github.com/javinovoae/RESER-REEF#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
